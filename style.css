@@ -43,7 +43,7 @@ section{
     
 }
 #Home{
-    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.4)),url(./images/spices.jpeg);
+    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.4)),url(spices.jpeg);
     background-size: cover;
     background-position: center;
     flex-direction: column;
